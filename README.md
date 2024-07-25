@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @SgoSkz
-- 👀 I’m interested in Rust, C, Python, JavaScript, TypeScript, Java, Lua, Kotlin
-- 🌱 I’m currently learning Rust, C, Kotlin
-- 💞️ I’m looking to collaborate on Low Level coding on uC
+# SgoSkz
+- **UIUC undergrad:** Electrical Engineering, CompSci, and Semiconductors Engineering
+- **Current Projects:** M2K Logic Analyzer Driver in libsigrok (C), FPGA blinky & uart (TBD)
+- **Past Projects:** TicTacToe (Rust and C), WAV header reader (C), Surtch (Rust)
+
+## Favorites
+- Linux Distro: Gentoo/Debian/Windows XP
+- Terminal: Alacritty
+- Desktop Environment: XFCE <3
+- Editor: NeoVIM
+- Font: JetBrains Mono
+- Colorscheme: GruvBox
 
 <!---
 SgoSkz/SgoSkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
