@@ -1,6 +1,6 @@
 # SgoSkz
 - **UIUC undergrad:** Electrical Engineering, CompSci, and Semiconductors Engineering
-- **Current Projects:** M2K Logic Analyzer Driver in libsigrok (C), FPGA blinky & uart (TBD)
+- **Current Projects:** M2K Logic Analyzer Driver in libsigrok (C), FPGA blinky & uart (TBD), Install IRC on everything possible :)
 - **Past Projects:** TicTacToe (Rust and C), WAV header reader (C), Surtch (Rust)
 
 ## Favorites
