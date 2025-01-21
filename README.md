@@ -1,10 +1,10 @@
 # SgoSkz
 - **UIUC undergrad:** Electrical Engineering, CompSci, and Semiconductors Engineering
-- **Current Projects:** M2K Logic Analyzer Driver in libsigrok (C), FPGA blinky & uart (TBD), Install IRC on everything possible :)
-- **Past Projects:** TicTacToe (Rust and C), WAV header reader (C), Surtch (Rust)
+- **Current Projects:** M2K Logic Analyzer Driver in libsigrok (C), install IRC on everything possible :)
+- **Past Projects:** TicTacToe (Rust and C), WAV header reader (C), Surtch (Rust), Tetris on FPGA (System Verilog)
 
 ## Favorites
-- Linux Distro: Gentoo/Debian/Windows XP
+- Linux Distro: Gentoo/Debian
 - Terminal: Alacritty
 - Desktop Environment: XFCE <3
 - Editor: NeoVIM
